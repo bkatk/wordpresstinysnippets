@@ -9,7 +9,7 @@
 
 <strong>[#] :: Files/Файлы:</strong>
 
-📁--categories<br />
-&nbsp;📄--class-names-for-category-links.php
+📁--[categories]<br />
+&nbsp;&nbsp;📄->class-names-for-category-links.php
 
 
